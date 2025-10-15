@@ -19,7 +19,7 @@ This project allows users to interact with Gemini-style prompts and get intellig
 
 * **Frontend:** React (Vite)
 * **API:** Google Generative AI (`@google/generative-ai`)
-* **Styling:** CSS / Tailwind (if used)
+* **Styling:** CSS
 * **Version Control:** Git + GitHub
 
 ---
@@ -96,8 +96,6 @@ Gemini_App/
 
 ### 🖼️ Preview
 
-![App Screenshot](./src/assets/preview.png)
-
 ---
 
 ### 📦 Deployment
@@ -127,8 +125,3 @@ npm run deploy
 ### 📜 License
 
 This project is licensed under the **MIT License** — feel free to use and modify.
-
----
-
-Would you like me to include **`.env` setup instructions** (to keep your API key secure) and a short section on **error handling in gemini.js** for the README?
-That’ll make it more professional for GitHub.
