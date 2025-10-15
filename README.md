@@ -1,9 +1,9 @@
-🧠 Gemini Clone (React + Vite)
-
+**🧠 Gemini Clone (React + Vite)
+**
 A modern AI chat interface inspired by Google Gemini, built using React, Vite, and the Google Generative AI API.
 This project allows users to interact with Gemini-style prompts and get intelligent responses instantly.
 
-🚀 Features
+**🚀 Features**
 
 ✨ Chat interface with Gemini-like UI
 
@@ -15,13 +15,13 @@ This project allows users to interact with Gemini-style prompts and get intellig
 
 ⚡ Built with Vite for ultra-fast development
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Frontend: React (Vite)
 
 API: Google Generative AI (@google/generative-ai)
 
-Styling: CSS / Tailwind (if used)
+Styling: CSS
 
 Version Control: Git + GitHub
 
@@ -42,7 +42,7 @@ Gemini_App/
 ├── vite.config.js
 └── README.md
 
-🔑 Environment Setup
+**🔑 Environment Setup**
 
 Clone the repository
 
@@ -83,28 +83,13 @@ Sidebar.jsx provides navigation (New Chat, Help, Settings, etc.).
 
 Responses are dynamically rendered to mimic Gemini’s style.
 
-🖼️ Preview
+**🖼️ Preview**
 
-📦 Deployment
-
-You can deploy this app easily using:
-
-Vercel
-
-Netlify
-
-GitHub Pages (via gh-pages)
-
-Example:
-
-npm run build
-npm run deploy
-
-👨‍💻 Author
+**👨‍💻 Author**
 
 Jaya Surya P
 🔗 GitHub
 
-📜 License
+**📜 License**
 
 This project is licensed under the MIT License — feel free to use and modify.
