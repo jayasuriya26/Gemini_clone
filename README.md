@@ -95,6 +95,7 @@ Gemini_App/
 ---
 
 ### 🖼️ Preview
+<img width="1909" height="907" alt="Screenshot 2025-10-15 141001" src="https://github.com/user-attachments/assets/16fea6de-1955-4f8a-b106-6db918819eea" />
 
 ---
 
